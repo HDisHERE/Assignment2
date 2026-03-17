@@ -9,4 +9,6 @@ This is a tiny protfolio website to show different projects he has, designed for
 There is a landing page, a project library and one of the detailed project page.
 
 ## Steps
-This time I spent most of the time on coding rather than visual design to fit the requirement. I've done the
+This time I spent most of the time on coding rather than visual design to fit the requirement. I believe I've finished most of the requirements.
+I've
+The only 
